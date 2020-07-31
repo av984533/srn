@@ -4,7 +4,7 @@ require('./config/passportConfig');
 const nodemailer = require('nodemailer');
 const express = require('express');
 const bodyParser = require('body-parser');
-var nodemailer = require("nodemailer");
+//var nodemailer = require("nodemailer");
 const cors = require('cors');
 const passport = require('passport');
 
